@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vectorshift-technical-assessment/static/css/main.cf3e6f8e.css",
+    "main.js": "/vectorshift-technical-assessment/static/js/main.0bd8d310.js",
+    "index.html": "/vectorshift-technical-assessment/index.html",
+    "main.cf3e6f8e.css.map": "/vectorshift-technical-assessment/static/css/main.cf3e6f8e.css.map",
+    "main.0bd8d310.js.map": "/vectorshift-technical-assessment/static/js/main.0bd8d310.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3e6f8e.css",
+    "static/js/main.0bd8d310.js"
+  ]
+}
