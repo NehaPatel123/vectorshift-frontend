@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vectorshift-frontend/static/css/main.cf3e6f8e.css",
-    "main.js": "/vectorshift-frontend/static/js/main.0bd8d310.js",
+    "main.css": "/vectorshift-frontend/static/css/main.0518623d.css",
+    "main.js": "/vectorshift-frontend/static/js/main.36906047.js",
     "index.html": "/vectorshift-frontend/index.html",
-    "main.cf3e6f8e.css.map": "/vectorshift-frontend/static/css/main.cf3e6f8e.css.map",
-    "main.0bd8d310.js.map": "/vectorshift-frontend/static/js/main.0bd8d310.js.map"
+    "main.0518623d.css.map": "/vectorshift-frontend/static/css/main.0518623d.css.map",
+    "main.36906047.js.map": "/vectorshift-frontend/static/js/main.36906047.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf3e6f8e.css",
-    "static/js/main.0bd8d310.js"
+    "static/css/main.0518623d.css",
+    "static/js/main.36906047.js"
   ]
 }
